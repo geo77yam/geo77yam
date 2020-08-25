@@ -1,0 +1,12 @@
+.title {
+  color: red;
+  font-style: oblique;
+  width: 300px;
+  margin: 0 auto;
+}
+p {
+  font-style: normal;
+  font-family: serif;
+  width: 300px;
+  margin: 0 auto;
+}
